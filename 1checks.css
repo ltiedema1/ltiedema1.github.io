@@ -1,0 +1,16 @@
+body {
+color:white;
+font-size: 2em;
+font-family: 'Bungee Inline', cursive;
+flex-wrap: wrap;
+background: url(Checkers.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
